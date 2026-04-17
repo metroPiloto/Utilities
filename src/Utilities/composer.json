@@ -1,0 +1,11 @@
+{
+	"name": "keithcarbine/Utilities",
+	"description": "Helpful utilities",
+	"version": "1.0.0",
+	"autoload": {
+		"psr-4": {
+			"Utilities\\": "src/Utilities/"
+		}
+	},
+	"require": {}
+}
